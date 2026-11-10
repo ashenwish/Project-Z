@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "directions": [
+    "s",
+    "se",
+    "e",
+    "ne",
+    "n",
+    "nw",
+    "w",
+    "sw"
+  ],
+  "attacks": {
+    "shoot": {
+      "sheet": "mech_scout_shoot.png",
+      "metadata": "mech_shoot.json",
+      "frames": 4,
+      "durations_ms": [
+        30,
+        70,
+        30,
+        70
+      ],
+      "events": {
+        "fire": [
+          0,
+          2
+        ]
+      },
+      "loop": true,
+      "canvas": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        218
+      ]
+    },
+    "stomp": {
+      "sheet": "mech_scout_stomp.png",
+      "metadata": "mech_stomp.json",
+      "frames": 6,
+      "durations_ms": [
+        100,
+        100,
+        90,
+        70,
+        110,
+        130
+      ],
+      "events": {
+        "impact": [
+          3
+        ]
+      },
+      "loop": false,
+      "canvas": [
+        256,
+        256
+      ],
+      "pivot": [
+        128,
+        218
+      ]
+    }
+  },
+  "effects": {
+    "flash_maxim": {
+      "sheet": "../fx/flash_maxim.png",
+      "canvas": [
+        32,
+        32
+      ],
+      "frames": 2,
+      "rows": 8,
+      "durations_ms": [
+        25,
+        35
+      ],
+      "pivot": [
+        16,
+        16
+      ]
+    },
+    "tracer_maxim": {
+      "sheet": "../fx/tracer_maxim.png",
+      "canvas": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "rows": 8,
+      "durations_ms": [
+        80
+      ],
+      "pivot": [
+        16,
+        16
+      ]
+    },
+    "shell_maxim": {
+      "sheet": "../fx/shell_maxim.png",
+      "canvas": [
+        12,
+        12
+      ],
+      "frames": 8,
+      "rows": 1,
+      "durations_ms": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "pivot": [
+        6,
+        6
+      ]
+    },
+    "stomp_dust": {
+      "sheet": "../fx/stomp_dust.png",
+      "canvas": [
+        64,
+        32
+      ],
+      "frames": 6,
+      "rows": 1,
+      "durations_ms": [
+        40,
+        45,
+        50,
+        55,
+        60,
+        70
+      ],
+      "pivot": [
+        32,
+        22
+      ]
+    }
+  },
+  "integration": "Asset stage 3; gameplay, damage and sound are stage 5."
+}

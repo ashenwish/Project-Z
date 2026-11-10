@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "directions": [
+    "s",
+    "se",
+    "e",
+    "ne",
+    "n",
+    "nw",
+    "w",
+    "sw"
+  ],
+  "hit": {
+    "sheet": "mech_scout_hit.png",
+    "metadata": "mech_hit.json",
+    "frames": 3,
+    "durations_ms": [
+      70,
+      100,
+      110
+    ],
+    "canvas": [
+      256,
+      256
+    ],
+    "pivot": [
+      128,
+      218
+    ],
+    "root_motion": false
+  },
+  "pieces": {
+    "cover": {
+      "frames": 8,
+      "durations_ms": [
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70
+      ],
+      "canvas": [
+        64,
+        64
+      ],
+      "pivot": [
+        32,
+        32
+      ],
+      "source_objects": [
+        "Mech_body.033"
+      ],
+      "source_ids": [
+        30
+      ],
+      "source_center_px": [
+        39.505,
+        -28.622,
+        112.987
+      ]
+    },
+    "shield": {
+      "frames": 8,
+      "durations_ms": [
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70
+      ],
+      "canvas": [
+        64,
+        64
+      ],
+      "pivot": [
+        32,
+        32
+      ],
+      "source_objects": [
+        "Mech_body.020"
+      ],
+      "source_ids": [
+        18
+      ],
+      "source_center_px": [
+        -29.393,
+        18.895,
+        148.892
+      ]
+    },
+    "cap": {
+      "frames": 8,
+      "durations_ms": [
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70
+      ],
+      "canvas": [
+        64,
+        64
+      ],
+      "pivot": [
+        32,
+        32
+      ],
+      "source_objects": [
+        "Mech_body.050"
+      ],
+      "source_ids": [
+        47
+      ],
+      "source_center_px": [
+        -51.116,
+        -36.634,
+        140.751
+      ]
+    }
+  },
+  "sparks": {
+    "sheet": "../fx/sparks_metal.png",
+    "frames": 6,
+    "variants": 3,
+    "canvas": [
+      48,
+      48
+    ],
+    "pivot": [
+      24,
+      24
+    ],
+    "durations_ms": [
+      35,
+      40,
+      45,
+      50,
+      55,
+      60
+    ]
+  },
+  "integration": "Asset stage only. Godot integration, collision-triggered emission and permanent damage states are stage 5."
+}

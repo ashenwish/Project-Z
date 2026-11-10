@@ -1,0 +1,22 @@
+[
+  {
+    "round": 10,
+    "exit": 0,
+    "checks": 29,
+    "errors": []
+  },
+  {
+    "round": 12,
+    "exit": 0,
+    "checks": 17,
+    "errors": [
+      "ERROR: 8 resources still in use at exit (run with --verbose for details)."
+    ]
+  },
+  {
+    "round": 18,
+    "exit": 0,
+    "checks": 102,
+    "errors": []
+  }
+]

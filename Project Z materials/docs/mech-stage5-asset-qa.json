@@ -1,0 +1,134 @@
+{
+  "frames": 296,
+  "errors": [],
+  "atlases": {
+    "idle.png": {
+      "size": [
+        256,
+        2048
+      ],
+      "colors": 20,
+      "sha256": "3be8c53c9a07a85906f5603053817cbba95b0ca0a22cfc8967f3711cddd47a9b"
+    },
+    "idle_charred.png": {
+      "size": [
+        256,
+        2048
+      ],
+      "colors": 13,
+      "sha256": "e59ae322a999030ee4b5ef2e865530945dcf0daa84a8eadfd5700804a235307d"
+    },
+    "walk.png": {
+      "size": [
+        2048,
+        2048
+      ],
+      "colors": 20,
+      "sha256": "8cca28d1bce7980684c0505115f88cde0d2442ab8b274bbdfe2414be2ea77a73"
+    },
+    "walk_charred.png": {
+      "size": [
+        2048,
+        2048
+      ],
+      "colors": 13,
+      "sha256": "4e7fd522f7daf95d51c4beca599f71da88a15ad0e427e5bf8d3b500132976930"
+    },
+    "hit.png": {
+      "size": [
+        768,
+        2048
+      ],
+      "colors": 20,
+      "sha256": "bbcc6925ef9611fc1a80f60b5c3fd51eb713f7222d989a9508175dad2005f866"
+    },
+    "hit_charred.png": {
+      "size": [
+        768,
+        2048
+      ],
+      "colors": 13,
+      "sha256": "c3111ecafb9a85f80eddc4144c0539cafcf7d0a888974bf9e2180a73e6262f78"
+    },
+    "shoot.png": {
+      "size": [
+        1024,
+        2048
+      ],
+      "colors": 20,
+      "sha256": "aa69fc251d87a21f31d1a15d85a5acc0c855f12a67a315b05ab5f0461be30d88"
+    },
+    "shoot_charred.png": {
+      "size": [
+        1024,
+        2048
+      ],
+      "colors": 13,
+      "sha256": "ad72857bb13622c88014562f8426a460ba64ff69e92568a0a8bd5dee43276a1a"
+    },
+    "stomp.png": {
+      "size": [
+        1536,
+        2048
+      ],
+      "colors": 20,
+      "sha256": "f5981414249810138d8bf35b47a3abe299ebc4f6c624c2db789462adc53aa9b7"
+    },
+    "stomp_charred.png": {
+      "size": [
+        1536,
+        2048
+      ],
+      "colors": 13,
+      "sha256": "fda2ccc16ad2cdce59cb3a96d05952010422ad23378b20379d8350fe55d9f3d7"
+    },
+    "die.png": {
+      "size": [
+        1536,
+        2048
+      ],
+      "colors": 20,
+      "sha256": "67ca8f60808624ef17148a85ef3d8b39df3929586b1ec0203f2723543b202d28"
+    },
+    "die_charred.png": {
+      "size": [
+        1536,
+        2048
+      ],
+      "colors": 13,
+      "sha256": "dfc93f8010983549a9996da7826dfcca1de2b189a2c18e087141acc921b5f762"
+    },
+    "die_decap.png": {
+      "size": [
+        1536,
+        2048
+      ],
+      "colors": 20,
+      "sha256": "95e49a8740b6a3e360ce03aab3d865592e56ea8ca9a2efefd8dc75685d3167b2"
+    },
+    "die_decap_charred.png": {
+      "size": [
+        1536,
+        2048
+      ],
+      "colors": 13,
+      "sha256": "cf49430f14469724bf31fe98142c45103ff34ee6923cf8393d124113fd61bfd7"
+    },
+    "shatter.png": {
+      "size": [
+        512,
+        2048
+      ],
+      "colors": 10,
+      "sha256": "f3be1f62ac90608dbb47dfb13e6e3b3d70ac49a627741e538261d86bac367b9d"
+    },
+    "wreck.png": {
+      "size": [
+        256,
+        2048
+      ],
+      "colors": 10,
+      "sha256": "9534a5058ef4b255d05ecbbf80881b9f760758a590ddf9879bbeefe03a4d3f4d"
+    }
+  }
+}

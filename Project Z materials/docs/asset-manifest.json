@@ -1,0 +1,1761 @@
+{
+  "schema_version": 1,
+  "art_direction_brief": "docs/art-direction-brief.md",
+  "palette": "art/palette/pz-28.png",
+  "assets": [
+    {
+      "id": "hero-idle",
+      "role": "образцовый ассет: Владимир Чернов, поза покоя, 8 направлений",
+      "path": "art/hero/hero_idle.png",
+      "source_file": "art/hero/hero_idle.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 64x768 (строки — направления)",
+        "frames": 8,
+        "tags": [
+          "idle_s",
+          "idle_se",
+          "idle_e",
+          "idle_ne",
+          "idle_n",
+          "idle_nw",
+          "idle_w",
+          "idle_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/hero_render.py (SDF-модель на скелете) + tools/aseprite_build_hero.lua (Aseprite 1.3.17)",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "референс героя от пользователя (чат 2026-11-06), сюжет.md"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-walk",
+      "role": "Владимир Чернов, цикл ходьбы, 8 кадров, 8 направлений",
+      "path": "art/hero/hero_walk.png",
+      "source_file": "art/hero/hero_walk.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 512x768 (строки — направления, столбцы — 8 кадров)",
+        "frames": 64,
+        "tags": [
+          "walk_s",
+          "walk_se",
+          "walk_e",
+          "walk_ne",
+          "walk_n",
+          "walk_nw",
+          "walk_w",
+          "walk_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "fps": 10,
+        "speed_m_s": 1.19
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/hero_render.py (SDF-модель на скелете) + tools/aseprite_build_hero.lua (Aseprite 1.3.17)",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "референс героя от пользователя (чат 2026-11-06), сюжет.md"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-run",
+      "role": "Владимир Чернов, цикл бега, 8 кадров, 8 направлений",
+      "path": "art/hero/hero_run.png",
+      "source_file": "art/hero/hero_run.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 512x768 (строки — направления, столбцы — 8 кадров)",
+        "frames": 64,
+        "tags": [
+          "run_s",
+          "run_se",
+          "run_e",
+          "run_ne",
+          "run_n",
+          "run_nw",
+          "run_w",
+          "run_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "fps": 13,
+        "speed_m_s": 3.65
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/hero_render.py (SDF-модель на скелете) + tools/aseprite_build_hero.lua (Aseprite 1.3.17)",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "референс героя от пользователя (чат 2026-11-06), сюжет.md"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-blade-quick",
+      "role": "Владимир Чернов: паровой клинок, быстрый горизонтальный удар",
+      "path": "art/hero/hero_blade_quick.png",
+      "source_file": "art/hero/hero_blade_quick.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 448x768 (строки — направления)",
+        "frames": 56,
+        "tags": [
+          "blade_quick_s",
+          "blade_quick_se",
+          "blade_quick_e",
+          "blade_quick_ne",
+          "blade_quick_n",
+          "blade_quick_nw",
+          "blade_quick_w",
+          "blade_quick_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "durations_ms": [
+          50,
+          60,
+          35,
+          45,
+          70,
+          70,
+          70
+        ],
+        "hit_frames": [
+          3
+        ],
+        "chain": [
+          0
+        ],
+        "meta": "art/hero/render/blade_quick.json (root motion, кадры удара)"
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/attacks.py + tools/mocap.py + tools/aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "Mixamo: использование в проектах разрешено, сырые файлы не распространять",
+        "prompt_or_source_record": "Mixamo: Standing Melee Attack Horizontal"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-blade-heavy",
+      "role": "Владимир Чернов: паровой клинок, тяжёлый удар сверху",
+      "path": "art/hero/hero_blade_heavy.png",
+      "source_file": "art/hero/hero_blade_heavy.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 640x768 (строки — направления)",
+        "frames": 80,
+        "tags": [
+          "blade_heavy_s",
+          "blade_heavy_se",
+          "blade_heavy_e",
+          "blade_heavy_ne",
+          "blade_heavy_n",
+          "blade_heavy_nw",
+          "blade_heavy_w",
+          "blade_heavy_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "durations_ms": [
+          80,
+          90,
+          110,
+          180,
+          45,
+          60,
+          150,
+          100,
+          90,
+          100
+        ],
+        "hit_frames": [
+          5
+        ],
+        "chain": [
+          0
+        ],
+        "meta": "art/hero/render/blade_heavy.json (root motion, кадры удара)"
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/attacks.py + tools/mocap.py + tools/aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "Mixamo: использование в проектах разрешено, сырые файлы не распространять",
+        "prompt_or_source_record": "Mixamo: Standing Melee Attack Downward"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-sickle-quick",
+      "role": "Владимир Чернов: серп, быстрая серия из 3 ударов",
+      "path": "art/hero/hero_sickle_quick.png",
+      "source_file": "art/hero/hero_sickle_quick.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 896x768 (строки — направления)",
+        "frames": 112,
+        "tags": [
+          "sickle_quick_s",
+          "sickle_quick_se",
+          "sickle_quick_e",
+          "sickle_quick_ne",
+          "sickle_quick_n",
+          "sickle_quick_nw",
+          "sickle_quick_w",
+          "sickle_quick_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "durations_ms": [
+          50,
+          50,
+          45,
+          60,
+          60,
+          45,
+          45,
+          60,
+          60,
+          45,
+          60,
+          70,
+          70,
+          80
+        ],
+        "hit_frames": [
+          2,
+          6,
+          9
+        ],
+        "chain": [
+          0,
+          4,
+          8
+        ],
+        "meta": "art/hero/render/sickle_quick.json (root motion, кадры удара)"
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/attacks.py + tools/mocap.py + tools/aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "Mixamo: использование в проектах разрешено, сырые файлы не распространять",
+        "prompt_or_source_record": "Mixamo: One Hand Club Combo"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-sickle-heavy",
+      "role": "Владимир Чернов: серп, тяжёлая серия из 3 ударов",
+      "path": "art/hero/hero_sickle_heavy.png",
+      "source_file": "art/hero/hero_sickle_heavy.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 1216x768 (строки — направления)",
+        "frames": 152,
+        "tags": [
+          "sickle_heavy_s",
+          "sickle_heavy_se",
+          "sickle_heavy_e",
+          "sickle_heavy_ne",
+          "sickle_heavy_n",
+          "sickle_heavy_nw",
+          "sickle_heavy_w",
+          "sickle_heavy_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "durations_ms": [
+          80,
+          110,
+          150,
+          45,
+          60,
+          130,
+          90,
+          100,
+          150,
+          45,
+          60,
+          130,
+          90,
+          110,
+          50,
+          60,
+          150,
+          100,
+          100
+        ],
+        "hit_frames": [
+          4,
+          10,
+          15
+        ],
+        "chain": [
+          0,
+          6,
+          12
+        ],
+        "meta": "art/hero/render/sickle_heavy.json (root motion, кадры удара)"
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/attacks.py + tools/mocap.py + tools/aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "Mixamo: использование в проектах разрешено, сырые файлы не распространять",
+        "prompt_or_source_record": "Mixamo: One Hand Sword Combo"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-gun-aim",
+      "role": "Владимир Чернов: стойка с обрезом (протез) и пистолетом (левая)",
+      "path": "art/hero/hero_gun_aim.png",
+      "source_file": "art/hero/hero_gun_aim.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 128x768 (строки — направления)",
+        "frames": 16,
+        "tags": [
+          "gun_aim_s",
+          "gun_aim_se",
+          "gun_aim_e",
+          "gun_aim_ne",
+          "gun_aim_n",
+          "gun_aim_nw",
+          "gun_aim_w",
+          "gun_aim_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "durations_ms": [
+          200,
+          200
+        ],
+        "hit_frames": [],
+        "chain": [
+          0
+        ],
+        "meta": "art/hero/render/gun_aim.json (root motion, кадры удара)"
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/attacks.py + tools/mocap.py + tools/aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "собрано на скелете героя"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-gun-shoot-r",
+      "role": "Владимир Чернов: выстрел из обреза, тяжёлая отдача",
+      "path": "art/hero/hero_gun_shoot_r.png",
+      "source_file": "art/hero/hero_gun_shoot_r.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 384x768 (строки — направления)",
+        "frames": 48,
+        "tags": [
+          "gun_shoot_r_s",
+          "gun_shoot_r_se",
+          "gun_shoot_r_e",
+          "gun_shoot_r_ne",
+          "gun_shoot_r_n",
+          "gun_shoot_r_nw",
+          "gun_shoot_r_w",
+          "gun_shoot_r_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "durations_ms": [
+          40,
+          50,
+          70,
+          80,
+          90,
+          110
+        ],
+        "hit_frames": [
+          1
+        ],
+        "chain": [
+          0
+        ],
+        "meta": "art/hero/render/gun_shoot_r.json (root motion, кадры удара)"
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/attacks.py + tools/mocap.py + tools/aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "собрано на скелете героя, тайминг по Mixamo Gunplay (Hand Cannon)"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-gun-shoot-l",
+      "role": "Владимир Чернов: выстрел из пистолета левой, лёгкая отдача",
+      "path": "art/hero/hero_gun_shoot_l.png",
+      "source_file": "art/hero/hero_gun_shoot_l.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, лист 256x768 (строки — направления)",
+        "frames": 32,
+        "tags": [
+          "gun_shoot_l_s",
+          "gun_shoot_l_se",
+          "gun_shoot_l_e",
+          "gun_shoot_l_ne",
+          "gun_shoot_l_n",
+          "gun_shoot_l_nw",
+          "gun_shoot_l_w",
+          "gun_shoot_l_sw"
+        ],
+        "alpha": true,
+        "anchor": "bottom-center, стопы на y=93",
+        "camera_pitch_deg": 30,
+        "filtering": "nearest",
+        "max_colors": 28,
+        "durations_ms": [
+          30,
+          40,
+          50,
+          60
+        ],
+        "hit_frames": [
+          1
+        ],
+        "chain": [
+          0
+        ],
+        "meta": "art/hero/render/gun_shoot_l.json (root motion, кадры удара)"
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/attacks.py + tools/mocap.py + tools/aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "собрано на скелете героя, тайминг по Mixamo Shooting Handgun"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "hero-layers",
+      "role": "Владимир Чернов в игре: слои ноги / корпус с модулем / левая рука с револьвером",
+      "path": "art/hero/layers/",
+      "source_file": "art/hero/layers/*.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "64x96 на кадр, листы: строки — 8 направлений",
+        "sheets": 35,
+        "legs": [
+          "idle",
+          "walk",
+          "run",
+          "blade_quick",
+          "blade_heavy",
+          "sickle_quick",
+          "sickle_heavy"
+        ],
+        "upper": "idle/walk/run x {blade, sickle, shotgun}, gun_aim/raise/shoot/lower, 4 удара",
+        "arm": "по источнику корпуса, кадр x 4 состояния револьвера",
+        "meta": "art/hero/layers/layers.json",
+        "anchor": "bottom-center, стопы на y=93",
+        "filtering": "nearest",
+        "max_colors": 28
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/hero_layers.py + hero_render.py + attacks.py + aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md (2026-11-06), refs/hero_modules"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "enemy-worker",
+      "role": "противник-человек (рабочий): живой, 6 видов трупа, 4 отлетающих куска",
+      "path": "art/enemy/",
+      "source_file": "art/enemy/",
+      "status": "review",
+      "technical": {
+        "live": "64x96 x 8 направлений: idle 1, walk 8, flinch 2",
+        "corpse": "128x128 x 8 направлений x 5 кадров",
+        "pieces": "48x48 x 8 кадров кувырка",
+        "filtering": "nearest",
+        "max_colors": 28
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/enemy_render.py + aseprite_build_hero.lua",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 2"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-set",
+      "role": "эффекты: вспышки, гильза, пар, мясо, пятна крови",
+      "path": "art/fx/",
+      "source_file": "art/fx/",
+      "status": "review",
+      "technical": {
+        "flash_shotgun": "32x32, 8 углов x 3",
+        "flash_pistol": "16x16, 8 углов x 2",
+        "splats": "6 размеров x 3 вида x fresh/dried",
+        "filtering": "nearest",
+        "max_colors": 28
+      },
+      "visual_locks": [
+        "palette",
+        "silhouette",
+        "proportions",
+        "facing",
+        "light-direction",
+        "camera-pitch"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/fx_gen.py",
+        "creator": "Claude Code по заданию пользователя",
+        "created_at": "2026-11-06",
+        "license": "собственный проект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 2"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": true,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-scout-hit",
+      "role": "Мех-разведчик: реакция на удар, 8 направлений",
+      "path": "art/mech/mech_scout_hit.png",
+      "source_file": "art/mech/mech_scout_hit.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          768,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 24,
+        "pivot": [
+          128,
+          218
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_damage_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 2"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-piece-cover",
+      "role": "Отлетающий боковой кожух, исходный объект Mech_body.033",
+      "path": "art/mech/mech_piece_cover.png",
+      "source_file": "art/mech/mech_piece_cover.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          512,
+          64
+        ],
+        "frame_size": [
+          64,
+          64
+        ],
+        "frames": 8,
+        "pivot": [
+          32,
+          32
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_damage_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 2"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-piece-shield",
+      "role": "Отлетающий защитный щиток, исходный объект Mech_body.020",
+      "path": "art/mech/mech_piece_shield.png",
+      "source_file": "art/mech/mech_piece_shield.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          512,
+          64
+        ],
+        "frame_size": [
+          64,
+          64
+        ],
+        "frames": 8,
+        "pivot": [
+          32,
+          32
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_damage_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 2"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-piece-cap",
+      "role": "Отлетающая круглая крышка, исходный объект Mech_body.050",
+      "path": "art/mech/mech_piece_cap.png",
+      "source_file": "art/mech/mech_piece_cap.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          512,
+          64
+        ],
+        "frame_size": [
+          64,
+          64
+        ],
+        "frames": 8,
+        "pivot": [
+          32,
+          32
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_damage_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 2"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-sparks-metal",
+      "role": "Металлические искры: три варианта по шесть кадров",
+      "path": "art/fx/sparks_metal.png",
+      "source_file": "art/fx/sparks_metal.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          288,
+          144
+        ],
+        "frame_size": [
+          48,
+          48
+        ],
+        "frames": 18,
+        "pivot": [
+          24,
+          24
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_damage_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный эффект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 2"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-scout-shoot",
+      "role": "Стрельба «Максима»: 8 направлений × 4 кадра",
+      "path": "art/mech/mech_scout_shoot.png",
+      "source_file": "art/mech/mech_scout_shoot.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          1024,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 32,
+        "pivot": [
+          128,
+          218
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_attack_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 3"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-scout-stomp",
+      "role": "Топот правой ногой: 8 направлений × 6 кадров",
+      "path": "art/mech/mech_scout_stomp.png",
+      "source_file": "art/mech/mech_scout_stomp.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          1536,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 48,
+        "pivot": [
+          128,
+          218
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_attack_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 3"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-flash-maxim",
+      "role": "Вспышка пулемёта: 8 направлений × 2 кадра",
+      "path": "art/fx/flash_maxim.png",
+      "source_file": "art/fx/flash_maxim.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          64,
+          256
+        ],
+        "frame_size": [
+          32,
+          32
+        ],
+        "frames": 16,
+        "pivot": [
+          16,
+          16
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_attack_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный эффект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 3"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-tracer-maxim",
+      "role": "Трассер пулемёта: 8 направлений",
+      "path": "art/fx/tracer_maxim.png",
+      "source_file": "art/fx/tracer_maxim.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          32,
+          256
+        ],
+        "frame_size": [
+          32,
+          32
+        ],
+        "frames": 8,
+        "pivot": [
+          16,
+          16
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_attack_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный эффект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 3"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-shell-maxim",
+      "role": "Гильза пулемёта: 8 углов",
+      "path": "art/fx/shell_maxim.png",
+      "source_file": "art/fx/shell_maxim.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          96,
+          12
+        ],
+        "frame_size": [
+          12,
+          12
+        ],
+        "frames": 8,
+        "pivot": [
+          6,
+          6
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_attack_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный эффект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 3"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-stomp-dust",
+      "role": "Пыль от топота: 6 кадров",
+      "path": "art/fx/stomp_dust.png",
+      "source_file": "art/fx/stomp_dust.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          384,
+          32
+        ],
+        "frame_size": [
+          64,
+          32
+        ],
+        "frames": 6,
+        "pivot": [
+          32,
+          22
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/fx_gen.py + tools/mech_attack_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный эффект",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 3"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-death-bullet",
+      "role": "Гибель пилота от огнестрельного попадания и наклон кабины",
+      "path": "art/mech/mech_scout_die.png",
+      "source_file": "art/mech/mech_scout_die.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          1536,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 48,
+        "pivot": [
+          128,
+          218
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-death-decap",
+      "role": "Гибель пилота с отсечением головы",
+      "path": "art/mech/mech_scout_die_decap.png",
+      "source_file": "art/mech/mech_scout_die_decap.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          1536,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 48,
+        "pivot": [
+          128,
+          218
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-shatter",
+      "role": "Распад обгоревшего меха",
+      "path": "art/mech/mech_shatter.png",
+      "source_file": "art/mech/mech_shatter.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          512,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 16,
+        "pivot": [
+          128,
+          200
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-wreck",
+      "role": "Обгоревший остов и детали на полу",
+      "path": "art/mech/mech_wreck.png",
+      "source_file": "art/mech/mech_wreck.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          256,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 8,
+        "pivot": [
+          128,
+          128
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-pilot-head",
+      "role": "Голова пилота в шлеме, восемь кадров кувырка",
+      "path": "art/mech/mech_pilot_head.png",
+      "source_file": "art/mech/mech_pilot_head.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          512,
+          64
+        ],
+        "frame_size": [
+          64,
+          64
+        ],
+        "frames": 8,
+        "pivot": [
+          32,
+          32
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный ассет",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-idle-charred",
+      "role": "Обгоревшая стойка меха",
+      "path": "art/mech/mech_scout_idle_charred.png",
+      "source_file": "art/mech/mech_scout_idle_charred.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          256,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 8,
+        "pivot": [
+          128,
+          218
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-walk-charred",
+      "role": "Обгоревшая ходьба меха",
+      "path": "art/mech/mech_scout_walk_charred.png",
+      "source_file": "art/mech/mech_scout_walk_charred.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          2048,
+          2048
+        ],
+        "frame_size": [
+          256,
+          256
+        ],
+        "frames": 64,
+        "pivot": [
+          128,
+          218
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "derived",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "условия исходной модели Tripo, в этой сессии не перепроверялись",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-smoke-mech",
+      "role": "Дым котла и остова",
+      "path": "art/fx/smoke_mech.png",
+      "source_file": "art/fx/smoke_mech.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          512,
+          96
+        ],
+        "frame_size": [
+          64,
+          96
+        ],
+        "frames": 8,
+        "pivot": [
+          32,
+          86
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный ассет",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-blast-mech",
+      "role": "Взрыв котла, вспышка и дым",
+      "path": "art/fx/blast_mech.png",
+      "source_file": "art/fx/blast_mech.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          1024,
+          128
+        ],
+        "frame_size": [
+          128,
+          128
+        ],
+        "frames": 8,
+        "pivot": [
+          64,
+          68
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный ассет",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-flame-mech",
+      "role": "Цикл пламени горящего меха",
+      "path": "art/fx/flame_mech.png",
+      "source_file": "art/fx/flame_mech.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          512,
+          96
+        ],
+        "frame_size": [
+          64,
+          96
+        ],
+        "frames": 8,
+        "pivot": [
+          32,
+          86
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный ассет",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "fx-pilot-blood",
+      "role": "Кровь при гибели пилота",
+      "path": "art/fx/pilot_blood.png",
+      "source_file": "art/fx/pilot_blood.aseprite",
+      "status": "review",
+      "technical": {
+        "sheet_size": [
+          384,
+          64
+        ],
+        "frame_size": [
+          64,
+          64
+        ],
+        "frames": 6,
+        "pivot": [
+          32,
+          32
+        ],
+        "alpha": true,
+        "filtering": "nearest",
+        "max_colors": 30
+      },
+      "visual_locks": [
+        "palette",
+        "world-scale",
+        "camera-pitch",
+        "pixel-grid"
+      ],
+      "source": {
+        "kind": "authored",
+        "url_or_tool": "tools/mech_blender.py + tools/mech_render.py + tools/mech_scorch.py + tools/fx_gen.py + tools/mech_death_sheets.py",
+        "creator": "Codex по заданию пользователя",
+        "created_at": "2026-11-10",
+        "license": "собственный процедурный ассет",
+        "prompt_or_source_record": "правки/ПРАВКИ.md, раунд 18, этап 4"
+      },
+      "verification": {
+        "native_scale_reviewed": true,
+        "in_engine_reviewed": false,
+        "technical_checks_passed": true,
+        "approved_by": ""
+      }
+    },
+    {
+      "id": "mech-scout-walk",
+      "role": "ходьба меха: атлас из существующих 64 кадров без изменения анимации",
+      "path": "art/mech/mech_scout_walk.png",
+      "source_file": "art/mech/mech_scout_walk.aseprite",
+      "status": "review",
+      "technical": {
+        "dimensions": "256x256 на кадр, 2048x2048 на атлас",
+        "frames": 64,
+        "directions": 8,
+        "durations_ms": [
+          125,
+          125,
+          125,
+          125,
+          125,
+          125,
+          125,
+          125
+        ],
+        "speed_mps": 0.833,
+        "filtering": "nearest",
+        "pivot": [
+          128,
+          218
+        ]
+      },
+      "metadata": "art/mech/render/mech_walk.json"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+GIMP Palette
+Name: PZ-28
+Columns: 7
+#
+ 11  10  16	shadow/void #0b0a10
+ 21  19  29	shadow/night #15131d
+ 33  30  44	shadow/dusk #211e2c
+ 50  46  64	shadow/slate-dark #322e40
+ 74  69  88	shadow/slate #4a4558
+107 101 120	shadow/slate-mid #6b6578
+148 142 160	shadow/ash #948ea0
+196 191 204	shadow/fog #c4bfcc
+236 232 238	shadow/bone #ece8ee
+ 42   5   9	blood/blood-1 #2a0509
+ 79  10  18	blood/blood-2 #4f0a12
+125  15  28	blood/blood-3 #7d0f1c
+179  22  42	blood/blood-4 #b3162a
+224  42  60	blood/blood-5 #e02a3c
+240  80  90	blood/blood-wet #f0505a
+ 59  31  40	flesh/flesh-1 #3b1f28
+110  52  64	flesh/flesh-2 #6e3440
+163  90  90	flesh/flesh-3 #a35a5a
+212 154 134	flesh/flesh-4 #d49a86
+240 205 180	flesh/flesh-5 #f0cdb4
+ 29  42  51	steel/steel-1 #1d2a33
+ 52  80  92	steel/steel-2 #34505c
+ 93 133 145	steel/steel-3 #5d8591
+159 197 201	steel/steel-4 #9fc5c9
+ 74  58  28	lamp/lamp-1 #4a3a1c
+154 122  46	lamp/lamp-2 #9a7a2e
+224 184  74	lamp/lamp-3 #e0b84a
+127 160  90	sick/sick-green #7fa05a
+ 62  44  28	lamp/brass-dark #3e2c1c
+116  88  42	lamp/brass-mid #74582a

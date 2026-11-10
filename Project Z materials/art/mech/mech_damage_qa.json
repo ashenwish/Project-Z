@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "hit_frames": 24,
+  "piece_frames": 24,
+  "spark_frames": 18,
+  "checks": [
+    "palette",
+    "binary alpha",
+    "nonempty",
+    "no canvas clipping",
+    "8 exact returns to idle",
+    "8 visible recoils",
+    "piece metadata",
+    "Aseprite pixels, timing and tags"
+  ],
+  "not_tested": [
+    "Godot integration",
+    "gameplay",
+    "audio"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "frames": 118,
+  "body_frames": 80,
+  "checks": [
+    "PZ palette",
+    "binary alpha",
+    "no clipping",
+    "Aseprite pixels/timing/tags",
+    "16 exact returns to idle",
+    "attack events",
+    "seven anchor tracks",
+    "stomp floor contact"
+  ],
+  "not_tested": [
+    "Godot gameplay",
+    "audio"
+  ]
+}

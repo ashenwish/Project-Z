@@ -1,0 +1,19 @@
+# Generated caches
+**/.godot/
+**/__pycache__/
+*.py[cod]
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+export_credentials.cfg
+
+# Editor backups and OS files
+*.blend1
+*.blend2
+*.aseprite-bak
+Thumbs.db
+Desktop.ini
+.DS_Store

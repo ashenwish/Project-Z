@@ -1,0 +1,525 @@
+{ "frames": [
+   {
+    "filename": "hero_blade_quick 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 1.aseprite",
+    "frame": { "x": 64, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 2.aseprite",
+    "frame": { "x": 128, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 3.aseprite",
+    "frame": { "x": 192, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 4.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 5.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 6.aseprite",
+    "frame": { "x": 384, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 7.aseprite",
+    "frame": { "x": 0, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 8.aseprite",
+    "frame": { "x": 64, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 9.aseprite",
+    "frame": { "x": 128, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 10.aseprite",
+    "frame": { "x": 192, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 11.aseprite",
+    "frame": { "x": 256, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 12.aseprite",
+    "frame": { "x": 320, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 13.aseprite",
+    "frame": { "x": 384, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 14.aseprite",
+    "frame": { "x": 0, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 15.aseprite",
+    "frame": { "x": 64, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 16.aseprite",
+    "frame": { "x": 128, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 17.aseprite",
+    "frame": { "x": 192, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 18.aseprite",
+    "frame": { "x": 256, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 19.aseprite",
+    "frame": { "x": 320, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 20.aseprite",
+    "frame": { "x": 384, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 21.aseprite",
+    "frame": { "x": 0, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 22.aseprite",
+    "frame": { "x": 64, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 23.aseprite",
+    "frame": { "x": 128, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 24.aseprite",
+    "frame": { "x": 192, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 25.aseprite",
+    "frame": { "x": 256, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 26.aseprite",
+    "frame": { "x": 320, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 27.aseprite",
+    "frame": { "x": 384, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 28.aseprite",
+    "frame": { "x": 0, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 29.aseprite",
+    "frame": { "x": 64, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 30.aseprite",
+    "frame": { "x": 128, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 31.aseprite",
+    "frame": { "x": 192, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 32.aseprite",
+    "frame": { "x": 256, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 33.aseprite",
+    "frame": { "x": 320, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 34.aseprite",
+    "frame": { "x": 384, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 35.aseprite",
+    "frame": { "x": 0, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 36.aseprite",
+    "frame": { "x": 64, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 37.aseprite",
+    "frame": { "x": 128, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 38.aseprite",
+    "frame": { "x": 192, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 39.aseprite",
+    "frame": { "x": 256, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 40.aseprite",
+    "frame": { "x": 320, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 41.aseprite",
+    "frame": { "x": 384, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 42.aseprite",
+    "frame": { "x": 0, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 43.aseprite",
+    "frame": { "x": 64, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 44.aseprite",
+    "frame": { "x": 128, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 45.aseprite",
+    "frame": { "x": 192, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 46.aseprite",
+    "frame": { "x": 256, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 47.aseprite",
+    "frame": { "x": 320, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 48.aseprite",
+    "frame": { "x": 384, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 49.aseprite",
+    "frame": { "x": 0, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_blade_quick 50.aseprite",
+    "frame": { "x": 64, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 60
+   },
+   {
+    "filename": "hero_blade_quick 51.aseprite",
+    "frame": { "x": 128, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 35
+   },
+   {
+    "filename": "hero_blade_quick 52.aseprite",
+    "frame": { "x": 192, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 45
+   },
+   {
+    "filename": "hero_blade_quick 53.aseprite",
+    "frame": { "x": 256, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 54.aseprite",
+    "frame": { "x": 320, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_blade_quick 55.aseprite",
+    "frame": { "x": 384, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.17-x64",
+  "image": "hero_blade_quick.png",
+  "format": "RGBA8888",
+  "size": { "w": 448, "h": 768 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "blade_quick_s", "from": 0, "to": 6, "direction": "forward", "color": "#000000ff" },
+   { "name": "blade_quick_se", "from": 7, "to": 13, "direction": "forward", "color": "#000000ff" },
+   { "name": "blade_quick_e", "from": 14, "to": 20, "direction": "forward", "color": "#000000ff" },
+   { "name": "blade_quick_ne", "from": 21, "to": 27, "direction": "forward", "color": "#000000ff" },
+   { "name": "blade_quick_n", "from": 28, "to": 34, "direction": "forward", "color": "#000000ff" },
+   { "name": "blade_quick_nw", "from": 35, "to": 41, "direction": "forward", "color": "#000000ff" },
+   { "name": "blade_quick_w", "from": 42, "to": 48, "direction": "forward", "color": "#000000ff" },
+   { "name": "blade_quick_sw", "from": 49, "to": 55, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

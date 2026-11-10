@@ -1,0 +1,93 @@
+{ "frames": [
+   {
+    "filename": "hero_idle 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   },
+   {
+    "filename": "hero_idle 1.aseprite",
+    "frame": { "x": 0, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   },
+   {
+    "filename": "hero_idle 2.aseprite",
+    "frame": { "x": 0, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   },
+   {
+    "filename": "hero_idle 3.aseprite",
+    "frame": { "x": 0, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   },
+   {
+    "filename": "hero_idle 4.aseprite",
+    "frame": { "x": 0, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   },
+   {
+    "filename": "hero_idle 5.aseprite",
+    "frame": { "x": 0, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   },
+   {
+    "filename": "hero_idle 6.aseprite",
+    "frame": { "x": 0, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   },
+   {
+    "filename": "hero_idle 7.aseprite",
+    "frame": { "x": 0, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 1000
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.17-x64",
+  "image": "hero_idle.png",
+  "format": "RGBA8888",
+  "size": { "w": 64, "h": 768 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle_s", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_se", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_e", "from": 2, "to": 2, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_ne", "from": 3, "to": 3, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_n", "from": 4, "to": 4, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_nw", "from": 5, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_w", "from": 6, "to": 6, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_sw", "from": 7, "to": 7, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}

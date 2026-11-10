@@ -1,0 +1,915 @@
+{
+ "step": [
+  {
+   "id": 813622,
+   "user": "SecureSubset",
+   "title": "Footsteps - Stone, Rock, Concrete, Cement",
+   "dur": 6.71,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 117631,
+   "user": "soundmary",
+   "title": "footstops - stone tile floor.wav",
+   "dur": 6.42,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 757207,
+   "user": "HenKonen",
+   "title": "Footsteps stone floor",
+   "dur": 4.19,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 422686,
+   "user": "niamhd00145229",
+   "title": "footsteps on stone pavement.wav",
+   "dur": 2.5,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 637555,
+   "user": "kyles",
+   "title": "footsteps shoes walk hard floor stone patio",
+   "dur": 7.07,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "land": [
+  {
+   "id": 504626,
+   "user": "leonelmail",
+   "title": "BODY FALL - V HVY - DIRT",
+   "dur": 1.63372,
+   "downloads": 16279,
+   "sr": 44100.0
+  },
+  {
+   "id": 364690,
+   "user": "alegemaate",
+   "title": "Human Impact on Ground",
+   "dur": 0.79839,
+   "downloads": 6254,
+   "sr": 44100.0
+  }
+ ],
+ "whoosh": [
+  {
+   "id": 830856,
+   "user": "MeanRaccoon",
+   "title": "whoosh low",
+   "dur": 0.47,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 585257,
+   "user": "lesaucisson",
+   "title": "swoosh-1.mp3",
+   "dur": 0.45,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 855719,
+   "user": "Sadiquecat",
+   "title": "Whoosh - Long Bamboo stick - Slow low",
+   "dur": 0.86,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "steam_short": [
+  {
+   "id": 131934,
+   "user": "mcpable",
+   "title": "Slips air release v1",
+   "dur": 4.29,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 416080,
+   "user": "davidlay1",
+   "title": "Air release",
+   "dur": 5.96,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 835267,
+   "user": "NoTomorrow12",
+   "title": "Gas/Pressure Releasing",
+   "dur": 0.3,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "steam_long": [
+  {
+   "id": 232917,
+   "user": "bmusic92",
+   "title": "Air Escaping.mp3",
+   "dur": 5.79,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 416080,
+   "user": "davidlay1",
+   "title": "Air release",
+   "dur": 5.96,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "gears": [
+  {
+   "id": 94121,
+   "user": "BMacZero",
+   "title": "Mechanical2.wav",
+   "dur": 0.603719,
+   "downloads": 4010,
+   "sr": 44100.0
+  },
+  {
+   "id": 94119,
+   "user": "BMacZero",
+   "title": "ClipLoad2.wav",
+   "dur": 0.20898,
+   "downloads": 2291,
+   "sr": 44100.0
+  },
+  {
+   "id": 94131,
+   "user": "BMacZero",
+   "title": "Rattle1.wav",
+   "dur": 0.777868,
+   "downloads": 2220,
+   "sr": 44100.0
+  },
+  {
+   "id": 193058,
+   "user": "Nomadyag",
+   "title": "ratchet.wav",
+   "dur": 0.626938,
+   "downloads": 1460,
+   "sr": 48000.0
+  }
+ ],
+ "swing_light": [
+  {
+   "id": 367182,
+   "user": "GaussTheWizard",
+   "title": "swing.mp3",
+   "dur": 0.696599,
+   "downloads": 4557,
+   "sr": 44100.0
+  },
+  {
+   "id": 60024,
+   "user": "qubodup",
+   "title": "swosh swinging sword 37.flac",
+   "dur": 0.557279,
+   "downloads": 2458,
+   "sr": 44100.0
+  },
+  {
+   "id": 614089,
+   "user": "mateusboga",
+   "title": "Woosh 6",
+   "dur": 0.18576,
+   "downloads": 323,
+   "sr": 44100.0
+  },
+  {
+   "id": 485279,
+   "user": "Joao_Janz",
+   "title": "Wooden Stick Swing 1_4",
+   "dur": 0.556937,
+   "downloads": 234,
+   "sr": 48000.0
+  },
+  {
+   "id": 876166,
+   "user": "Assetsmith",
+   "title": "Fantasy Sword Swing Whoosh (Game SFX)",
+   "dur": 0.410567,
+   "downloads": 20,
+   "sr": 44100.0
+  }
+ ],
+ "swing_heavy": [
+  {
+   "id": 542017,
+   "user": "Rob_Marion",
+   "title": "GASP_Swing_Heavy_3.wav",
+   "dur": 1.05883,
+   "downloads": 255,
+   "sr": 48000.0
+  },
+  {
+   "id": 514162,
+   "user": "ZHRØ",
+   "title": "Swinging axe.mp3",
+   "dur": 0.48,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 475135,
+   "user": "bolkmar",
+   "title": "FX - Swoosh - Low Pitch",
+   "dur": 1.11,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 390360,
+   "user": "Josethehedgehog",
+   "title": "Swing de hacha.wav",
+   "dur": 0.36,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "slash_flesh": [
+  {
+   "id": 35213,
+   "user": "Abyssmal",
+   "title": "slashkut.wav",
+   "dur": 0.491701,
+   "downloads": 31144,
+   "sr": 44100.0
+  },
+  {
+   "id": 385966,
+   "user": "minituffy",
+   "title": "Large Swede Stab with Whoosh.wav",
+   "dur": 0.752,
+   "downloads": 2506,
+   "sr": 48000.0
+  },
+  {
+   "id": 344404,
+   "user": "jawbutch",
+   "title": "Knife Stab Melon.wav",
+   "dur": 1.001,
+   "downloads": 2126,
+   "sr": 48000.0
+  },
+  {
+   "id": 259563,
+   "user": "nicktermer",
+   "title": "knife throw.wav",
+   "dur": 0.233424,
+   "downloads": 505,
+   "sr": 44100.0
+  }
+ ],
+ "gore": [
+  {
+   "id": 495118,
+   "user": "nebulasnails",
+   "title": "Wet Splat 1.mp3",
+   "dur": 0.660979,
+   "downloads": 4331,
+   "sr": 48000.0
+  },
+  {
+   "id": 176549,
+   "user": "deleted_user_3277771",
+   "title": "VERY LOUD Splat.wav",
+   "dur": 1.12985,
+   "downloads": 3937,
+   "sr": 48000.0
+  },
+  {
+   "id": 411671,
+   "user": "deoking",
+   "title": "BloodSquish.wav",
+   "dur": 0.381134,
+   "downloads": 3264,
+   "sr": 44100.0
+  },
+  {
+   "id": 641046,
+   "user": "magnuswaker",
+   "title": "Gore Impact - &quot;LOT OF HEART&quot;",
+   "dur": 1.14986,
+   "downloads": 1784,
+   "sr": 96000.0
+  },
+  {
+   "id": 433840,
+   "user": "Archos",
+   "title": "Slime 27.wav",
+   "dur": 0.854125,
+   "downloads": 1005,
+   "sr": 96000.0
+  }
+ ],
+ "bone": [
+  {
+   "id": 192146,
+   "user": "BrassKnucklesFilms",
+   "title": "Bone Crunch Fast.wav",
+   "dur": 0.901247,
+   "downloads": 3591,
+   "sr": 44100.0
+  },
+  {
+   "id": 578874,
+   "user": "samueleunimancer",
+   "title": "BoneSnaping.mp3",
+   "dur": 0.736848,
+   "downloads": 2532,
+   "sr": 44100.0
+  },
+  {
+   "id": 488659,
+   "user": "Fission9",
+   "title": "Bone Fracture",
+   "dur": 0.322125,
+   "downloads": 1556,
+   "sr": 96000.0
+  }
+ ],
+ "clang": [
+  {
+   "id": 406562,
+   "user": "Anthousai",
+   "title": "hit - metallic 01.wav",
+   "dur": 0.6775,
+   "downloads": 4664,
+   "sr": 96000.0
+  },
+  {
+   "id": 405665,
+   "user": "Anthousai",
+   "title": "metal bowl - hit - with wooden spoon 01.wav",
+   "dur": 1.03456,
+   "downloads": 4530,
+   "sr": 96000.0
+  },
+  {
+   "id": 326868,
+   "user": "JohnBuhr",
+   "title": "Sword_Clash (7).wav",
+   "dur": 1.17007,
+   "downloads": 2087,
+   "sr": 44100.0
+  }
+ ],
+ "chain": [
+  {
+   "id": 536737,
+   "user": "egomassive",
+   "title": "Chain.ogg",
+   "dur": 1.00992,
+   "downloads": 275,
+   "sr": 24000.0
+  }
+ ],
+ "chain_throw": [
+  {
+   "id": 167372,
+   "user": "ani_music",
+   "title": "Steel chain being dropped and dragged",
+   "dur": 0.66,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 167373,
+   "user": "ani_music",
+   "title": "Steel chain being dropped",
+   "dur": 1.08,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 871035,
+   "user": "funkysandwich",
+   "title": "metal_chain_pickup1",
+   "dur": 1.37,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "shotgun": [
+  {
+   "id": 427595,
+   "user": "michorvath",
+   "title": "20 gauge shotgun gunshot",
+   "dur": 1.7422,
+   "downloads": 12255,
+   "sr": 44100.0
+  },
+  {
+   "id": 163455,
+   "user": "LeMudCrab",
+   "title": "Shotgun Shot",
+   "dur": 0.691678,
+   "downloads": 9178,
+   "sr": 44100.0
+  },
+  {
+   "id": 266977,
+   "user": "coolguy244e",
+   "title": "gun shot5.mp3",
+   "dur": 1.13739,
+   "downloads": 6399,
+   "sr": 44100.0
+  },
+  {
+   "id": 473846,
+   "user": "LilMati",
+   "title": "Shotgun Shot 03.wav",
+   "dur": 2.0,
+   "downloads": 6231,
+   "sr": 44100.0
+  }
+ ],
+ "shotgun_double": [],
+ "shotgun_open": [
+  {
+   "id": 266105,
+   "user": "Marregheriti",
+   "title": "shotgun.wav",
+   "dur": 1.17313,
+   "downloads": 15196,
+   "sr": 44100.0
+  },
+  {
+   "id": 200966,
+   "user": "Paul368",
+   "title": "Shotgun Cock Reload Layered (Powerful)",
+   "dur": 1.99238,
+   "downloads": 8150,
+   "sr": 44100.0
+  },
+  {
+   "id": 108793,
+   "user": "CeebFrack",
+   "title": "shell load.ogg",
+   "dur": 0.557279,
+   "downloads": 2218,
+   "sr": 44100.0
+  },
+  {
+   "id": 386741,
+   "user": "ken788",
+   "title": "Shotgun_Reload.wav",
+   "dur": 1.73143,
+   "downloads": 1555,
+   "sr": 44100.0
+  }
+ ],
+ "shell": [
+  {
+   "id": 205126,
+   "user": "Danwardvs",
+   "title": ".30 Shell Bouncing",
+   "dur": 10.0659,
+   "downloads": 1974,
+   "sr": 44100.0
+  },
+  {
+   "id": 210102,
+   "user": "GrayJoy",
+   "title": "Brass bullet shell casing drop onto concrete, multiple takes",
+   "dur": 14.0419,
+   "downloads": 1645,
+   "sr": 44100.0
+  }
+ ],
+ "fire_burst": [
+  {
+   "id": 687010,
+   "user": "Jo000",
+   "title": "Fire Ignite.wav",
+   "dur": 1.71875,
+   "downloads": 918,
+   "sr": 44100.0
+  },
+  {
+   "id": 386166,
+   "user": "ldezem",
+   "title": "Gas furnace - Ignition happy",
+   "dur": 2.95806,
+   "downloads": 174,
+   "sr": 96000.0
+  }
+ ],
+ "fire_loop": [
+  {
+   "id": 370938,
+   "user": "jmehlferber",
+   "title": "fire-crackling.wav",
+   "dur": 24.4967,
+   "downloads": 4360,
+   "sr": 44100.0
+  }
+ ],
+ "revolver": [
+  {
+   "id": 415912,
+   "user": "okieactor",
+   "title": "Heathers Gunshot Effect2.wav",
+   "dur": 1.91782,
+   "downloads": 24310,
+   "sr": 96000.0
+  }
+ ],
+ "revolver_cock": [
+  {
+   "id": 405538,
+   "user": "nebulasnails",
+   "title": "Pistol Cock.wav",
+   "dur": 0.785125,
+   "downloads": 6138,
+   "sr": 44100.0
+  },
+  {
+   "id": 688765,
+   "user": "qubodup",
+   "title": "Unholster Gun",
+   "dur": 0.705125,
+   "downloads": 1315,
+   "sr": 48000.0
+  }
+ ],
+ "revolver_reload": [
+  {
+   "id": 240698,
+   "user": "ajoyce86",
+   "title": "Revolver Cocking.wav",
+   "dur": 2.18268,
+   "downloads": 3414,
+   "sr": 44100.0
+  },
+  {
+   "id": 693125,
+   "user": "serøutōnin--deprivəd",
+   "title": "22lr Revolver ejecting bullets from cylinder",
+   "dur": 2.74676,
+   "downloads": 906,
+   "sr": 44100.0
+  }
+ ],
+ "dry_fire": [
+  {
+   "id": 725402,
+   "user": "serøutōnin--deprivəd",
+   "title": "A rifle being dry fired once",
+   "dur": 0.524195,
+   "downloads": 870,
+   "sr": 44100.0
+  }
+ ],
+ "hit": [
+  {
+   "id": 447922,
+   "user": "Breviceps",
+   "title": "Thud / Falling on wooden floor / Snapping, breaking neck",
+   "dur": 0.393946,
+   "downloads": 11748,
+   "sr": 44100.0
+  },
+  {
+   "id": 321810,
+   "user": "mmasonghi",
+   "title": "Blocking Arm With Hand",
+   "dur": 0.430792,
+   "downloads": 6422,
+   "sr": 48000.0
+  },
+  {
+   "id": 842508,
+   "user": "gulfstreamav",
+   "title": "Hit_Impact",
+   "dur": 0.549333,
+   "downloads": 1000,
+   "sr": 48000.0
+  },
+  {
+   "id": 629977,
+   "user": "Flem0527",
+   "title": "Clothed Body Hit 1 .wav",
+   "dur": 0.508753,
+   "downloads": 728,
+   "sr": 44100.0
+  }
+ ],
+ "body_fall": [
+  {
+   "id": 504626,
+   "user": "leonelmail",
+   "title": "BODY FALL - V HVY - DIRT",
+   "dur": 1.63372,
+   "downloads": 16279,
+   "sr": 44100.0
+  },
+  {
+   "id": 447922,
+   "user": "Breviceps",
+   "title": "Thud / Falling on wooden floor / Snapping, breaking neck",
+   "dur": 0.393946,
+   "downloads": 11748,
+   "sr": 44100.0
+  },
+  {
+   "id": 346694,
+   "user": "deleted_user_2104797",
+   "title": "Body fall_02.wav",
+   "dur": 1.62002,
+   "downloads": 8076,
+   "sr": 48000.0
+  }
+ ],
+ "splat": [
+  {
+   "id": 269482,
+   "user": "editor_adp",
+   "title": "Gooey Squish",
+   "dur": 0.913771,
+   "downloads": 3550,
+   "sr": 48000.0
+  },
+  {
+   "id": 323525,
+   "user": "Kreastricon62",
+   "title": "Bloody Blade.wav",
+   "dur": 0.659705,
+   "downloads": 2536,
+   "sr": 44100.0
+  },
+  {
+   "id": 433840,
+   "user": "Archos",
+   "title": "Slime 27.wav",
+   "dur": 0.854125,
+   "downloads": 1005,
+   "sr": 96000.0
+  }
+ ],
+ "slam": [
+  {
+   "id": 504626,
+   "user": "leonelmail",
+   "title": "BODY FALL - V HVY - DIRT",
+   "dur": 1.63372,
+   "downloads": 16279,
+   "sr": 44100.0
+  },
+  {
+   "id": 640204,
+   "user": "7of9Designs",
+   "title": "Heavy Metal Thud on Ground",
+   "dur": 0.748798,
+   "downloads": 1430,
+   "sr": 44100.0
+  }
+ ],
+ "switch": [
+  {
+   "id": 478197,
+   "user": "JonnyRuss01",
+   "title": "Click_1.wav",
+   "dur": 0.0616667,
+   "downloads": 6501,
+   "sr": 48000.0
+  },
+  {
+   "id": 348224,
+   "user": "tbrook",
+   "title": "Switch Light 06.wav",
+   "dur": 0.122104,
+   "downloads": 2182,
+   "sr": 48000.0
+  },
+  {
+   "id": 54407,
+   "user": "KorgMS2000B",
+   "title": "Metronome Tap.wav",
+   "dur": 0.0611791,
+   "downloads": 1643,
+   "sr": 44100.0
+  }
+ ],
+ "heartbeat": [
+  {
+   "id": 22440,
+   "user": "Lunardrive",
+   "title": "Single Heartbeat Clean HQ_BeatSmith.wav",
+   "dur": 0.664,
+   "downloads": 8041,
+   "sr": 48000.0
+  }
+ ],
+ "chime": [
+  {
+   "id": 515643,
+   "user": "MashedTatoes2",
+   "title": "ding2.wav",
+   "dur": 0.354467,
+   "downloads": 4422,
+   "sr": 44100.0
+  },
+  {
+   "id": 452379,
+   "user": "steffcaffrey",
+   "title": "Small Bell #2",
+   "dur": 1.93803,
+   "downloads": 2249,
+   "sr": 44100.0
+  }
+ ],
+ "npc_step": [
+  {
+   "id": 368834,
+   "user": "georgisound",
+   "title": "Footsteps_Hallway.wav",
+   "dur": 31.68,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 543685,
+   "user": "Nox_Sound",
+   "title": "Footsteps_Wood_Walk_Mono.wav",
+   "dur": 24.54,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 118985,
+   "user": "ragamuffin",
+   "title": "male-foot-walk-marble-stereo.aif",
+   "dur": 7.34,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 426620,
+   "user": "mrh4hn",
+   "title": "Footsteps on Wood Floor.wav",
+   "dur": 10.93,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "swing_snap": [
+  {
+   "id": 395266,
+   "user": "deleted_user_6479820",
+   "title": "Sword Movement Single 1",
+   "dur": 0.486054,
+   "downloads": 729,
+   "sr": 44100.0
+  },
+  {
+   "id": 277322,
+   "user": "Angrycrazii",
+   "title": "Sword swing.wav",
+   "dur": 0.34424,
+   "downloads": 695,
+   "sr": 44100.0
+  },
+  {
+   "id": 395265,
+   "user": "deleted_user_6479820",
+   "title": "Sword Movement Single 2",
+   "dur": 0.581293,
+   "downloads": 606,
+   "sr": 44100.0
+  },
+  {
+   "id": 395263,
+   "user": "deleted_user_6479820",
+   "title": "Sword Movement Single 4",
+   "dur": 0.517324,
+   "downloads": 488,
+   "sr": 44100.0
+  },
+  {
+   "id": 194115,
+   "user": "potentjello",
+   "title": "Knife Swish 3.wav",
+   "dur": 0.122018,
+   "downloads": 83,
+   "sr": 44100.0
+  }
+ ],
+ "chain_loop": [
+  {
+   "id": 370877,
+   "user": "cribbler",
+   "title": "Chains.wav",
+   "dur": 6.15569,
+   "downloads": 2928,
+   "sr": 96000.0
+  },
+  {
+   "id": 448917,
+   "user": "Kp69606",
+   "title": "Chain Rattling",
+   "dur": 13.1602,
+   "downloads": 2397,
+   "sr": 48000.0
+  },
+  {
+   "id": 167916,
+   "user": "ani_music",
+   "title": "Steel chain hard clicking",
+   "dur": 3.87794,
+   "downloads": 2172,
+   "sr": 44100.0
+  },
+  {
+   "id": 386174,
+   "user": "ldezem",
+   "title": "Chain pulley 750kg - Chain pull",
+   "dur": 1.74,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "swing_heavy_sickle": [
+  {
+   "id": 855844,
+   "user": "Sadiquecat",
+   "title": "Whoosh - Long Bamboo stick - OS ST 13",
+   "dur": 0.62,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 268226,
+   "user": "XxChr0nosxX",
+   "title": "Woosh 2.mp3",
+   "dur": 0.83,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 840717,
+   "user": "Nomagician",
+   "title": "Sword Swing 3",
+   "dur": 0.76,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 667419,
+   "user": "hz37",
+   "title": "Swish wipe HZA 16-05-2022.wav",
+   "dur": 0.44,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "jump_push": [
+  {
+   "id": 422764,
+   "user": "KieranKeegan",
+   "title": "Jump_Stone_1.wav",
+   "dur": 0.13,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 422759,
+   "user": "KieranKeegan",
+   "title": "Jump_Gravel_1.wav",
+   "dur": 0.3,
+   "downloads": 0,
+   "sr": 44100
+  },
+  {
+   "id": 512677,
+   "user": "Jummit",
+   "title": "Human Jumping",
+   "dur": 0.5,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ],
+ "cloth": [
+  {
+   "id": 494797,
+   "user": "brandondelehoy",
+   "title": "Jacket/Cloth Rustle 9",
+   "dur": 0.33,
+   "downloads": 0,
+   "sr": 44100
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "step": [
+  "step_0.ogg",
+  "step_1.ogg",
+  "step_2.ogg",
+  "step_3.ogg"
+ ],
+ "npc_step": [
+  "npc_step_0.ogg",
+  "npc_step_1.ogg",
+  "npc_step_2.ogg",
+  "npc_step_3.ogg",
+  "npc_step_4.ogg",
+  "npc_step_5.ogg",
+  "npc_step_6.ogg",
+  "npc_step_7.ogg",
+  "npc_step_8.ogg",
+  "npc_step_9.ogg"
+ ],
+ "land": [
+  "land_0.ogg",
+  "land_1.ogg",
+  "land_2.ogg"
+ ],
+ "dash": [
+  "dash_0.ogg",
+  "dash_1.ogg"
+ ],
+ "jump": [
+  "jump_0.ogg",
+  "jump_1.ogg",
+  "jump_2.ogg"
+ ],
+ "steam": [
+  "steam_0.ogg",
+  "steam_1.ogg"
+ ],
+ "steam_long": [
+  "steam_long_0.ogg",
+  "steam_long_1.ogg"
+ ],
+ "switch_module": [
+  "switch_module_0.ogg",
+  "switch_module_1.ogg",
+  "switch_module_2.ogg",
+  "switch_module_3.ogg"
+ ],
+ "ult_ready": [
+  "ult_ready_0.ogg",
+  "ult_ready_1.ogg"
+ ],
+ "swing_light": [
+  "swing_light_0.ogg",
+  "swing_light_1.ogg"
+ ],
+ "swing_snap": [
+  "swing_snap_0.ogg",
+  "swing_snap_1.ogg",
+  "swing_snap_2.ogg",
+  "swing_snap_3.ogg"
+ ],
+ "swing_heavy": [
+  "swing_heavy_0.ogg",
+  "swing_heavy_1.ogg",
+  "swing_heavy_2.ogg",
+  "swing_heavy_3.ogg"
+ ],
+ "swing_heavy_sickle": [
+  "swing_heavy_sickle_0.ogg",
+  "swing_heavy_sickle_1.ogg",
+  "swing_heavy_sickle_2.ogg"
+ ],
+ "steam_puff": [
+  "steam_puff_0.ogg",
+  "steam_puff_1.ogg"
+ ],
+ "slash": [
+  "slash_0.ogg",
+  "slash_1.ogg",
+  "slash_2.ogg",
+  "slash_3.ogg"
+ ],
+ "gore": [
+  "gore_0.ogg",
+  "gore_1.ogg",
+  "gore_2.ogg",
+  "gore_3.ogg",
+  "gore_4.ogg"
+ ],
+ "bone": [
+  "bone_0.ogg",
+  "bone_1.ogg",
+  "bone_2.ogg"
+ ],
+ "clang": [
+  "clang_0.ogg",
+  "clang_1.ogg",
+  "clang_2.ogg"
+ ],
+ "chain": [
+  "chain_0.ogg"
+ ],
+ "chain_throw": [
+  "chain_throw_0.ogg",
+  "chain_throw_1.ogg",
+  "chain_throw_2.ogg"
+ ],
+ "chain_loop": [
+  "chain_loop_0.ogg"
+ ],
+ "shotgun": [
+  "shotgun_0.ogg",
+  "shotgun_1.ogg",
+  "shotgun_2.ogg",
+  "shotgun_3.ogg"
+ ],
+ "shotgun_double": [
+  "shotgun_double_0.ogg",
+  "shotgun_double_1.ogg",
+  "shotgun_double_2.ogg"
+ ],
+ "shotgun_reload": [
+  "shotgun_reload_0.ogg",
+  "shotgun_reload_1.ogg",
+  "shotgun_reload_2.ogg",
+  "shotgun_reload_3.ogg"
+ ],
+ "shell": [
+  "shell_0.ogg",
+  "shell_1.ogg",
+  "shell_2.ogg",
+  "shell_3.ogg"
+ ],
+ "fire_burst": [
+  "fire_burst_0.ogg",
+  "fire_burst_1.ogg"
+ ],
+ "fire_loop": [
+  "fire_loop_0.ogg"
+ ],
+ "revolver": [
+  "revolver_0.ogg"
+ ],
+ "revolver_cock": [
+  "revolver_cock_0.ogg",
+  "revolver_cock_1.ogg"
+ ],
+ "revolver_reload": [
+  "revolver_reload_0.ogg",
+  "revolver_reload_1.ogg"
+ ],
+ "dry_fire": [
+  "dry_fire_0.ogg"
+ ],
+ "hit": [
+  "hit_0.ogg",
+  "hit_1.ogg",
+  "hit_2.ogg",
+  "hit_3.ogg"
+ ],
+ "body_fall": [
+  "body_fall_0.ogg",
+  "body_fall_1.ogg",
+  "body_fall_2.ogg"
+ ],
+ "splat": [
+  "splat_0.ogg",
+  "splat_1.ogg",
+  "splat_2.ogg"
+ ],
+ "slam": [
+  "slam_0.ogg",
+  "slam_1.ogg"
+ ],
+ "switch": [
+  "switch_0.ogg",
+  "switch_1.ogg",
+  "switch_2.ogg"
+ ],
+ "heartbeat": [
+  "heartbeat_0.ogg"
+ ],
+ "mech_maxim": [
+  "mech_maxim.ogg"
+ ],
+ "mech_step": [
+  "mech_step.ogg"
+ ],
+ "mech_stomp": [
+  "mech_stomp.ogg"
+ ],
+ "mech_metal_hit": [
+  "mech_metal_hit.ogg"
+ ],
+ "mech_explosion": [
+  "mech_explosion.ogg"
+ ],
+ "mech_steam": [
+  "mech_steam.ogg"
+ ]
+}

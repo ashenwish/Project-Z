@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "frames": 230,
+  "aseprite_files": 11,
+  "checks": [
+    "PZ palette",
+    "binary alpha",
+    "no clipping",
+    "11 Aseprite roundtrips",
+    "pilot visibility and removal",
+    "death event 900 ms",
+    "floor basis",
+    "burning preserves alpha",
+    "scorch LUT stays in palette"
+  ],
+  "not_tested": [
+    "Godot gameplay",
+    "explosion damage",
+    "audio"
+  ]
+}

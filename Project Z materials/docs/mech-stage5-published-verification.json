@@ -1,0 +1,26 @@
+[
+  {
+    "job": "published-import",
+    "exit": 0,
+    "errors": 0,
+    "warnings": 9
+  },
+  {
+    "job": "published-test",
+    "exit": 0,
+    "errors": 0,
+    "warnings": 0
+  },
+  {
+    "job": "published-arena",
+    "exit": 0,
+    "errors": 0,
+    "warnings": 0
+  },
+  {
+    "job": "published-preview",
+    "exit": 0,
+    "errors": 0,
+    "warnings": 0
+  }
+]

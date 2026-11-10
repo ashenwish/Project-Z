@@ -1,0 +1,453 @@
+{ "frames": [
+   {
+    "filename": "hero_gun_shoot_r 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 1.aseprite",
+    "frame": { "x": 64, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 2.aseprite",
+    "frame": { "x": 128, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 3.aseprite",
+    "frame": { "x": 192, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 4.aseprite",
+    "frame": { "x": 256, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 5.aseprite",
+    "frame": { "x": 320, "y": 0, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   },
+   {
+    "filename": "hero_gun_shoot_r 6.aseprite",
+    "frame": { "x": 0, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 7.aseprite",
+    "frame": { "x": 64, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 8.aseprite",
+    "frame": { "x": 128, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 9.aseprite",
+    "frame": { "x": 192, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 10.aseprite",
+    "frame": { "x": 256, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 11.aseprite",
+    "frame": { "x": 320, "y": 96, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   },
+   {
+    "filename": "hero_gun_shoot_r 12.aseprite",
+    "frame": { "x": 0, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 13.aseprite",
+    "frame": { "x": 64, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 14.aseprite",
+    "frame": { "x": 128, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 15.aseprite",
+    "frame": { "x": 192, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 16.aseprite",
+    "frame": { "x": 256, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 17.aseprite",
+    "frame": { "x": 320, "y": 192, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   },
+   {
+    "filename": "hero_gun_shoot_r 18.aseprite",
+    "frame": { "x": 0, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 19.aseprite",
+    "frame": { "x": 64, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 20.aseprite",
+    "frame": { "x": 128, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 21.aseprite",
+    "frame": { "x": 192, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 22.aseprite",
+    "frame": { "x": 256, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 23.aseprite",
+    "frame": { "x": 320, "y": 288, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   },
+   {
+    "filename": "hero_gun_shoot_r 24.aseprite",
+    "frame": { "x": 0, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 25.aseprite",
+    "frame": { "x": 64, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 26.aseprite",
+    "frame": { "x": 128, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 27.aseprite",
+    "frame": { "x": 192, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 28.aseprite",
+    "frame": { "x": 256, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 29.aseprite",
+    "frame": { "x": 320, "y": 384, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   },
+   {
+    "filename": "hero_gun_shoot_r 30.aseprite",
+    "frame": { "x": 0, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 31.aseprite",
+    "frame": { "x": 64, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 32.aseprite",
+    "frame": { "x": 128, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 33.aseprite",
+    "frame": { "x": 192, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 34.aseprite",
+    "frame": { "x": 256, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 35.aseprite",
+    "frame": { "x": 320, "y": 480, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   },
+   {
+    "filename": "hero_gun_shoot_r 36.aseprite",
+    "frame": { "x": 0, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 37.aseprite",
+    "frame": { "x": 64, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 38.aseprite",
+    "frame": { "x": 128, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 39.aseprite",
+    "frame": { "x": 192, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 40.aseprite",
+    "frame": { "x": 256, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 41.aseprite",
+    "frame": { "x": 320, "y": 576, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   },
+   {
+    "filename": "hero_gun_shoot_r 42.aseprite",
+    "frame": { "x": 0, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 40
+   },
+   {
+    "filename": "hero_gun_shoot_r 43.aseprite",
+    "frame": { "x": 64, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "hero_gun_shoot_r 44.aseprite",
+    "frame": { "x": 128, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 70
+   },
+   {
+    "filename": "hero_gun_shoot_r 45.aseprite",
+    "frame": { "x": 192, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 80
+   },
+   {
+    "filename": "hero_gun_shoot_r 46.aseprite",
+    "frame": { "x": 256, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 90
+   },
+   {
+    "filename": "hero_gun_shoot_r 47.aseprite",
+    "frame": { "x": 320, "y": 672, "w": 64, "h": 96 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 96 },
+    "sourceSize": { "w": 64, "h": 96 },
+    "duration": 110
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.17-x64",
+  "image": "hero_gun_shoot_r.png",
+  "format": "RGBA8888",
+  "size": { "w": 384, "h": 768 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "gun_shoot_r_s", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "gun_shoot_r_se", "from": 6, "to": 11, "direction": "forward", "color": "#000000ff" },
+   { "name": "gun_shoot_r_e", "from": 12, "to": 17, "direction": "forward", "color": "#000000ff" },
+   { "name": "gun_shoot_r_ne", "from": 18, "to": 23, "direction": "forward", "color": "#000000ff" },
+   { "name": "gun_shoot_r_n", "from": 24, "to": 29, "direction": "forward", "color": "#000000ff" },
+   { "name": "gun_shoot_r_nw", "from": 30, "to": 35, "direction": "forward", "color": "#000000ff" },
+   { "name": "gun_shoot_r_w", "from": 36, "to": 41, "direction": "forward", "color": "#000000ff" },
+   { "name": "gun_shoot_r_sw", "from": 42, "to": 47, "direction": "forward", "color": "#000000ff" }
+  ]
+ }
+}
